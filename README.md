@@ -25,7 +25,7 @@ Hi! This is my first C# project and my goal here is to show my beginner skills.
 ## About the Project
 
 In this project,
-Firstly, you create an account. Then, you need to subscribe / choose a plan to continue to real app. In the Sharplist app, there are many shows with different categories. Basically, you select which you want and make your own 'watchlist'. Also, your data will be saved in SQL server.
+Firstly, you create an account. Then, you need to subscribe / choose a plan to continue to real app. In the Sharplist app, there are many shows with different categories. Basically, you select which you want and make your own 'watchlist'. Also, your data will be saved in SQL server. I have added shows as C# classes to able to show how I have handled the C# types. It could done with API as well.
 
 ## Built with
 
